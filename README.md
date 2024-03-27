@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a seasoned MERN (MongoDB, Express.js, React, Node.js) stack developer with 1.5 years of hands-on experience in web development. Proficient in building both the front-end and back-end of web applications, you excel in creating responsive user interfaces using React and designing robust server-side logic with Node.js and Express.js. I have expertise extends to database design, API development, and web security implementation. With a strong foundation in version control and problem-solving, you are well-equipped to tackle complex web development projects. 
+I am a seasoned MERN (MongoDB, Express.js, React, Node.js) stack developer with 1.5 years of hands-on experience in web development. Proficient in building both the front-end and back-end of web applications, you excel in creating responsive user interfaces using React and designing robust server-side logic with Node.js and Express.js. I have expertise extends to database design, API development, and web security implementation. With a strong foundation in version control and problem-solving, I am well-equipped to tackle complex web development projects. 
 
 
 ## 🌐 Socials:
